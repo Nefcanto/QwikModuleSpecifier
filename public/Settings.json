@@ -1,0 +1,9 @@
+{
+    "IsDeveloping": true,
+    "SiteUrl": "https://vidfactor.local",
+    "AccountsUrl": "https://accounts.pydr.ir",
+    "AccountsRealm": "Development",
+    "AccountsClient": "Panel",
+    "AuthSecret": "some_random_secret",
+    "KeycloakClientSecret": "keycloak_client_secret"
+}

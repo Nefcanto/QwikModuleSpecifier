@@ -1,0 +1,181 @@
+{
+	"extends": "./TsConfigBase",
+	"compilerOptions": {
+		"paths": {
+			"Accounts": [
+				"src/Modules/Accounts/Exports"
+			],
+			"Attributes": [
+				"src/Modules/Attributes/Exports"
+			],
+			"Base": [
+				"src/Base/Exports"
+			],
+			"Blog": [
+				"src/Modules/Blog/Exports"
+			],
+			"BlogParts": [
+				"src/Components/BlogParts/Exports"
+			],
+			"BrandParts": [
+				"src/Components/BrandParts/Exports"
+			],
+			"Brands": [
+				"src/Modules/Brands/Exports"
+			],
+			"BrandsParts": [
+				"src/Components/BrandsParts/Exports"
+			],
+			"CartParts": [
+				"src/Components/CartParts/Exports"
+			],
+			"CheckoutParts": [
+				"src/Components/CheckoutParts/Exports"
+			],
+			"CompareParts": [
+				"src/Components/CompareParts/Exports"
+			],
+			"Configuration": [
+				"src/Modules/Configuration/Exports"
+			],
+			"Contact": [
+				"src/Components/Contact/Exports"
+			],
+			"Contacts": [
+				"src/Modules/Contacts/Exports"
+			],
+			"ContentPolicies": [
+				"src/Modules/ContentPolicies/Exports"
+			],
+			"Contents": [
+				"src/Modules/Contents/Exports"
+			],
+			"Dashboard": [
+				"src/Components/Dashboard/Exports"
+			],
+			"Faq": [
+				"src/Components/Faq/Exports"
+			],
+			"Forms": [
+				"src/Modules/Forms/Exports"
+			],
+			"Functions": [
+				"src/Functions/Exports"
+			],
+			"Geo": [
+				"src/Modules/Geo/Exports"
+			],
+			"Globalization": [
+				"src/Modules/Globalization/Exports"
+			],
+			"HierarchiesParts": [
+				"src/Components/HierarchiesParts/Exports"
+			],
+			"HierarchyChildrenParts": [
+				"src/Components/HierarchyChildrenParts/Exports"
+			],
+			"Index": [
+				"src/Components/Index/Exports"
+			],
+			"InvoiceParts": [
+				"src/Components/InvoiceParts/Exports"
+			],
+			"Layout": [
+				"src/Components/Layout/Exports"
+			],
+			"Loaders": [
+				"src/Loaders"
+			],
+			"Media": [
+				"src/Modules/Media/Exports"
+			],
+			"Modules": [
+				"src/Modules/Modules/Exports"
+			],
+			"Navigation": [
+				"src/Modules/Navigation/Exports"
+			],
+			"Orders": [
+				"src/Modules/Orders/Exports"
+			],
+			"PageParts": [
+				"src/Components/PageParts/Exports"
+			],
+			"PaginationBehaviors": [
+				"src/PaginationBehaviors"
+			],
+			"Payment": [
+				"src/Modules/Payment/Exports"
+			],
+			"PostParts": [
+				"src/Components/PostParts/Exports"
+			],
+			"PriceListParts": [
+				"src/Components/PriceListParts/Exports"
+			],
+			"Pricing": [
+				"src/Modules/Pricing/Exports"
+			],
+			"ProductParts": [
+				"src/Components/ProductParts/Exports"
+			],
+			"ProductVariantsParts": [
+				"src/Components/ProductVariantsParts/Exports"
+			],
+			"Products": [
+				"src/Modules/Products/Exports"
+			],
+			"ProductsParts": [
+				"src/Components/ProductsParts/Exports"
+			],
+			"QuestionParts": [
+				"src/Components/QuestionParts/Exports"
+			],
+			"Questions": [
+				"src/Modules/Questions/Exports"
+			],
+			"QuestionsParts": [
+				"src/Components/QuestionsParts/Exports"
+			],
+			"Qwik": [
+				"node_modules/@builder.io/qwik"
+			],
+			"QwikCity": [
+				"node_modules/@builder.io/qwik-city"
+			],
+			"RichTextComponents": [
+				"src/RichTextComponents"
+			],
+			"Sales": [
+				"src/Modules/Sales/Exports"
+			],
+			"Seo": [
+				"src/Modules/Seo/Exports"
+			],
+			"Shared": [
+				"src/Components/Shared/Exports"
+			],
+			"Shipment": [
+				"src/Modules/Shipment/Exports"
+			],
+			"SignInParts": [
+				"src/Components/SignInParts/Exports"
+			],
+			"Social": [
+				"src/Modules/Social/Exports"
+			],
+			"Svg": [
+				"src/Components/Svg/Exports"
+			],
+			"TagsParts": [
+				"src/Components/TagsParts/Exports"
+			],
+			"Taxonomy": [
+				"src/Modules/Taxonomy/Exports"
+			],
+			"Tenants": [
+				"src/Modules/Tenants/Exports"
+			]
+		}
+	}
+}

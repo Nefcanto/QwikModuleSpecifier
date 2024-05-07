@@ -1,0 +1,15 @@
+services:
+  site:
+    image: node:lts-bookworm-slim
+    container_name: QwikModuleSpecifier
+    hostname: site
+    working_dir: /Site
+    volumes:
+      - ./:/Site
+    ports:
+      - 5173:5173
+    command: >
+      bash -c
+      "
+      tail -f /dev/null
+      "

@@ -1,0 +1,5 @@
+{
+    "ApiUrl": "https://api.vidfactor.com",
+    "AccountsRealm": "VidFactor",
+    "AccountsClient": "Site"
+}

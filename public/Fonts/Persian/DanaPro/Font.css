@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "DanaPro";
+    src: url("Fonts/Woff2/DanaFaNum-Thin.woff2") format("woff2"),
+        url("Fonts/Woff/DanaFaNum-Thin.woff") format("woff");
+    font-weight: 100;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: "DanaPro";
+    src: url("Fonts/Woff2/DanaFaNum-Regular.woff2") format("woff2"),
+        url("Fonts/Woff/DanaFaNum-Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: "DanaPro";
+    src: url("Fonts/Woff2/DanaFaNum-Bold.woff2") format("woff2"),
+        url("Fonts/Woff/DanaFaNum-Bold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: "DanaPro";
+    src: url("Fonts/Woff2/DanaFaNum-ExtraBold.woff2") format("woff2"),
+        url("Fonts/Woff/DanaFaNum-ExtraBold.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: block;
+}
+
+body {
+    font-family: DanaPro !important;
+}

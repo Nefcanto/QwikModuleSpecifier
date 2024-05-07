@@ -1,0 +1,39 @@
+@font-face {
+    font-family: Kalame;
+    src: url("Fonts/Woff2/KalameWeb_thin.woff2") format("woff2"),
+        url("Fonts/Woff/KalameWeb_thin.woff") format("woff");
+    font-weight: 100;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: Kalame;
+    src: url("Fonts/Woff2/KalameWeb_Regular.woff2") format("woff2"),
+        url("Fonts/Woff/KalameWeb_Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: Kalame;
+    src: url("Fonts/Woff2/KalameWeb_Bold.woff2") format("woff2"),
+        url("Fonts/Woff/KalameWeb_Bold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: Kalame;
+    src: url("Fonts/Woff2/KalameWeb_Black.woff2") format("woff2"),
+        url("Fonts/Woff/KalameWeb_Black.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: block;
+}
+
+body {
+    font-family: Kalame !important;
+}
